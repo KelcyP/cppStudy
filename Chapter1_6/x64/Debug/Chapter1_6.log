@@ -1,0 +1,8 @@
+﻿  Chapter1_6.cpp
+C:\Users\deeda\source\repos\cppStudy\Chapter1_6\Chapter1_6.cpp(11,9): warning C4101: 'total' :참조되지 않은 지역 변수입니다.
+C:\Users\deeda\source\repos\cppStudy\Chapter1_6\Chapter1_6.cpp(19,9): warning C4101: 'meters_of_pipe' :참조되지 않은 지역 변수입니다.
+C:\Users\deeda\source\repos\cppStudy\Chapter1_6\Chapter1_6.cpp(15,9): warning C4101: 'TotalCustomers' :참조되지 않은 지역 변수입니다.
+C:\Users\deeda\source\repos\cppStudy\Chapter1_6\Chapter1_6.cpp(13,9): warning C4101: 'VALUE' :참조되지 않은 지역 변수입니다.
+C:\Users\deeda\source\repos\cppStudy\Chapter1_6\Chapter1_6.cpp(17,9): warning C4101: 'numFruit' :참조되지 않은 지역 변수입니다.
+C:\Users\deeda\source\repos\cppStudy\Chapter1_6\Chapter1_6.cpp(12,9): warning C4101: '_orange' :참조되지 않은 지역 변수입니다.
+  Chapter1_6.vcxproj -> C:\Users\deeda\source\repos\cppStudy\x64\Debug\Chapter1_6.exe
